@@ -1,0 +1,6 @@
+{
+    "name": "Express APIRest - Production",
+    "configDB": {
+        "host": "prod-db-server"
+    }
+}
